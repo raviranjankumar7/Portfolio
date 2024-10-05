@@ -614,4 +614,7 @@ section{
 	.contact .action form input[type="email"] {
 		width: 310px;
 	}
+	.contact .action form input[type="text"] {
+		width: 310px;
+	}
 }
